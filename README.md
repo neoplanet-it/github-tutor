@@ -1,1 +1,1 @@
-# github-tutor
+# goit-markup-hw-01
